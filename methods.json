@@ -1,0 +1,7 @@
+[
+    {"name": "BROWSER-KCT", "description": "layer 7 - Attack Url [normal]", "duration": "500"},
+    {"name": "KILL", "description": "layer 7 - Attack Url [normal]", "duration": "500"},
+    {"name": "XYN", "description": "layer 7 - Attack Url [normal]", "duration": "500"},
+    {"name": "UAM", "description": "layer 7 - Attack Url [normal]", "duration": "500"},
+    {"name": "TLS-KCT", "description": "layer 7 - Attack Url [normal]", "duration": "500"}
+]
